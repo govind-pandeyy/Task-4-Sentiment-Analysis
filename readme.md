@@ -1,4 +1,4 @@
-# 😊 Task 4: Sentiment Analysis using Python
+#  Task 4: Sentiment Analysis using Python
 
 ## Project Overview
 
